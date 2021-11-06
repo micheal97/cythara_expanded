@@ -1,6 +1,6 @@
 # Welcome to Cythara-Expanded
 
-This App is originally Maintained by gstraube, but I made some extra Features 
+This App is originally maintained by gstraube, but I made some extra features 
 
 ## Privacy Policy
 
