@@ -1,14 +1,13 @@
 [![Build Status](https://travis-ci.org/gstraube/cythara.svg?branch=master)](https://travis-ci.org/gstraube/cythara)
 
-# Cythara
+# Cythara expanded
 A musical instrument tuner for Android.
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
       alt="Get it on F-Droid"
       height="80">](https://f-droid.org/packages/com.github.cythara/)
 
-NOTE: Do not use the outdated Play Store version.
-The keystore file that was used to sign it has been lost, so updates can no longer be pushed to Google Play.
+NOTE: This is the expanded Version of cythara from gstraube
 
 ## Functionality
 
