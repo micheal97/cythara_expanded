@@ -7,8 +7,8 @@ A musical instrument tuner for Android.
       height="80">](https://f-droid.org/packages/com.github.cythara/)
 
 NOTE: This is the expanded Version of cythara from gstraube
-[Hey 👋 I just created an app here. You can now buy me a pizza!](buymeacoffee.com/?via=githubmicheal97)
-</a>
+
+[Hey 👋 I just created an app here. You can now buy me a pizza!](https://buymeacoffee.com/?via=githubmicheal97)
 
 ## Functionality
 
