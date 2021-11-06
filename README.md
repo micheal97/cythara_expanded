@@ -3,8 +3,7 @@
 # Cythara expanded
 A musical instrument tuner for Android.
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-      alt="Get it on Play Store"
+[<img src="https://github.com/micheal97/cythara/blob/gh-pages/512px-Google_Play_Store_badge_EN.svg.webp"
       height="80">](https://f-droid.org/packages/com.github.cythara/)
 
 NOTE: This is the expanded Version of cythara from gstraube
