@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Cythara</string>
+    <string name="app_name">Cythara expanded</string>
 
     <string name="privacy_policy">Show privacy policy</string>
     <string name="privacy_policy_link" translatable="false">
