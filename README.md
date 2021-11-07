@@ -8,7 +8,7 @@ A musical instrument tuner for Android.
 
 NOTE: This is the expanded Version of cythara from gstraube
 
-[Hey 👋 I just created an app here. You can now buy me a pizza!](https://buymeacoffee.com/?via=githubmicheal97)
+[Hey 👋 I just created an app here. You can now buy me a pizza!](https://www.buymeacoffee.com/micheal97)
 
 ## Functionality
 
