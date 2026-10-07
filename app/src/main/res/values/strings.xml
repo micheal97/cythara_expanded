@@ -10,14 +10,14 @@
     <string name="choose_notation">Choose notation</string>
     <string name="toggle_dark_mode">Toggle dark mode</string>
     <string name="set_reference_pitch">Set reference pitch</string>
-    <string name="set_tuning_speed">Set tuning speed</string>
+    <string name="set_tuning_speed" translatable="false">Set tuning speed</string>
 
-    <string name="choose_speed">Choose tuning speed</string>
+    <string name="choose_speed" translatable="false">Choose tuning speed</string>
     <string name="choose_a_frequency">Choose a frequency:</string>
     <string name="permission_required">Permission required</string>
     <string name="microphone_permission_required">Microphone permission is required. App will close.</string>
     <string name="ok">OK</string>
-    <string name="choose_tuning_mode" tools:ignore="MissingTranslation">Choose tuning mode</string>
+    <string name="choose_tuning_mode" translatable="false">Choose tuning mode</string>
 
     <string-array name="tunings">
         <item>Chromatic</item>
